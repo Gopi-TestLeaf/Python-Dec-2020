@@ -1,0 +1,8 @@
+hello everyone, Marry Christmas in covid-19.
+i hope 2021 will good for us[mind voice - appadinu nambuvom]
+
+
+    a. you fetch only numbers from given textfile and write in new file.
+    b. get the count of words and write it in second line - words count = 10
+    3. get special character count and write it - special character count = 10
+
